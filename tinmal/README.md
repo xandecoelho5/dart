@@ -16,6 +16,3 @@ The goal of this project was to implement the Tinder for Cats and Dogs API using
 [Tinder-cat-dog-api](https://tinder-cat-dog-api.herokuapp.com/swagger.html)
 
 [dart_frog website](https://dartfrog.vgv.dev/)
-
-[Tinder-cat-dog-api]: https://tinder-cat-dog-api.herokuapp.com/swagger.html
-
