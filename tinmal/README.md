@@ -13,6 +13,10 @@
 
 The goal of this project was to implement the Tinder for Cats and Dogs API using dart_frog.
 
-[Tinder-cat-dog-api](https://tinder-cat-dog-api.herokuapp.com/swagger.html)
 
-[dart_frog website](https://dartfrog.vgv.dev/)
+
+[Challenge website](https://flutterchallenge.dev/lets-make-an-api) - Where the idea came from
+
+[Tinder cat-dog API](https://tinder-cat-dog-api.herokuapp.com/swagger.html) - current API for reference
+
+[Dart_Frog](https://dartfrog.vgv.dev/) - backend framework used
