@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map>
+        <entry key="file://$PROJECT_DIR$/specs/src/auth.yaml" value="openapi30" />
+        <entry key="file://$PROJECT_DIR$/specs/src/user.yaml" value="openapi30" />
+      </map>
+    </option>
+  </component>
+</project>
